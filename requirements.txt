@@ -1,4 +1,4 @@
 Jinja2
 pymongo==2.7.2
 PyYAML
-tornado
+tornado==5.0.2
